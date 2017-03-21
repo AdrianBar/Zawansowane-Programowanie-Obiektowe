@@ -1,0 +1,8 @@
+D:\Zawansowane projektowanie obiektowe\Ćwiczenie 2.2\Ćwiczenie 2.2\bin\Debug\Ćwiczenie 2.2.exe.config
+C:\Users\Adrian\Desktop\Zawansowane Programowanie Obiektowe\Ćwiczenie 2 - Programowanie Obiektowe\Ćwiczenie 2.2\Ćwiczenie 2.2\bin\Debug\Ćwiczenie 2.2.exe.config
+C:\Users\Adrian\Desktop\Ćwiczenie 2.2\Ćwiczenie 2.2\bin\Debug\Ćwiczenie 2.2.exe.config
+C:\Users\Adrian\Desktop\Ćwiczenie 2.2\Ćwiczenie 2.2\bin\Debug\Ćwiczenie 2.2.exe
+C:\Users\Adrian\Desktop\Ćwiczenie 2.2\Ćwiczenie 2.2\bin\Debug\Ćwiczenie 2.2.pdb
+C:\Users\Adrian\Desktop\Ćwiczenie 2.2\Ćwiczenie 2.2\obj\Debug\Ćwiczenie 2.2.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\Ćwiczenie 2.2\Ćwiczenie 2.2\obj\Debug\Ćwiczenie 2.2.exe
+C:\Users\Adrian\Desktop\Ćwiczenie 2.2\Ćwiczenie 2.2\obj\Debug\Ćwiczenie 2.2.pdb
