@@ -1,0 +1,17 @@
+D:\Zawansowane projektowanie obiektowe\Ćwiczenie 3.1\Ćwiczenie 3.1\bin\Debug\Ćwiczenie 3.1.exe.config
+D:\Zawansowane projektowanie obiektowe\Ćwiczenie 3.1\Ćwiczenie 3.1\bin\Debug\Ćwiczenie 3.1.exe
+D:\Zawansowane projektowanie obiektowe\Ćwiczenie 3.1\Ćwiczenie 3.1\bin\Debug\Ćwiczenie 3.1.pdb
+D:\Zawansowane projektowanie obiektowe\Ćwiczenie 3.1\Ćwiczenie 3.1\bin\Debug\nunit.framework.dll
+D:\Zawansowane projektowanie obiektowe\Ćwiczenie 3.1\Ćwiczenie 3.1\bin\Debug\nunit.framework.xml
+D:\Zawansowane projektowanie obiektowe\Ćwiczenie 3.1\Ćwiczenie 3.1\obj\Debug\Ćwiczenie 3.1.csprojResolveAssemblyReference.cache
+D:\Zawansowane projektowanie obiektowe\Ćwiczenie 3.1\Ćwiczenie 3.1\obj\Debug\Ćwiczenie 3.1.exe
+D:\Zawansowane projektowanie obiektowe\Ćwiczenie 3.1\Ćwiczenie 3.1\obj\Debug\Ćwiczenie 3.1.pdb
+C:\Users\Adrian\Desktop\Ćwiczenie 3.1\Ćwiczenie 3.1\bin\Debug\Ćwiczenie 3.1.exe.config
+C:\Users\Adrian\Desktop\Ćwiczenie 3.1\Ćwiczenie 3.1\obj\Debug\Ćwiczenie 3.1.exe
+C:\Users\Adrian\Desktop\Ćwiczenie 3.1\Ćwiczenie 3.1\obj\Debug\Ćwiczenie 3.1.pdb
+C:\Users\Adrian\Desktop\Ćwiczenie 3.1\Ćwiczenie 3.1\bin\Debug\Ćwiczenie 3.1.exe
+C:\Users\Adrian\Desktop\Ćwiczenie 3.1\Ćwiczenie 3.1\bin\Debug\Ćwiczenie 3.1.pdb
+C:\Users\Adrian\Desktop\Ćwiczenie 3.1\Ćwiczenie 3.1\bin\Debug\nunit.framework.dll
+C:\Users\Adrian\Desktop\Ćwiczenie 3.1\Ćwiczenie 3.1\bin\Debug\nunit.framework.xml
+C:\Users\Adrian\Desktop\Ćwiczenie 3.1\Ćwiczenie 3.1\bin\Debug\Ćwiczenie 3.1.exe.CodeAnalysisLog.xml
+C:\Users\Adrian\Desktop\Ćwiczenie 3.1\Ćwiczenie 3.1\bin\Debug\Ćwiczenie 3.1.exe.lastcodeanalysissucceeded
