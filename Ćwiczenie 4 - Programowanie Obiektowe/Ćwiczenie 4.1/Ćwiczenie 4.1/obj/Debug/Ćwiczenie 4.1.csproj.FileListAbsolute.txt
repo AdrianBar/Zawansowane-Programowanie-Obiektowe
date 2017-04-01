@@ -1,0 +1,15 @@
+D:\Zawansowane projektowanie obiektowe\Ćwiczenie 4.1\Ćwiczenie 4.1\bin\Debug\Ćwiczenie 4.1.exe.config
+D:\Zawansowane projektowanie obiektowe\Ćwiczenie 4.1\Ćwiczenie 4.1\bin\Debug\Ćwiczenie 4.1.exe
+D:\Zawansowane projektowanie obiektowe\Ćwiczenie 4.1\Ćwiczenie 4.1\bin\Debug\Ćwiczenie 4.1.pdb
+D:\Zawansowane projektowanie obiektowe\Ćwiczenie 4.1\Ćwiczenie 4.1\obj\Debug\Ćwiczenie 4.1.csprojResolveAssemblyReference.cache
+D:\Zawansowane projektowanie obiektowe\Ćwiczenie 4.1\Ćwiczenie 4.1\obj\Debug\Ćwiczenie 4.1.exe
+D:\Zawansowane projektowanie obiektowe\Ćwiczenie 4.1\Ćwiczenie 4.1\obj\Debug\Ćwiczenie 4.1.pdb
+C:\Users\local\Downloads\Ćwiczenie 4.1\Ćwiczenie 4.1\bin\Debug\Ćwiczenie 4.1.exe.config
+C:\Users\local\Downloads\Ćwiczenie 4.1\Ćwiczenie 4.1\obj\Debug\Ćwiczenie 4.1.exe
+C:\Users\local\Downloads\Ćwiczenie 4.1\Ćwiczenie 4.1\obj\Debug\Ćwiczenie 4.1.pdb
+C:\Users\local\Downloads\Ćwiczenie 4.1\Ćwiczenie 4.1\bin\Debug\Ćwiczenie 4.1.exe
+C:\Users\local\Downloads\Ćwiczenie 4.1\Ćwiczenie 4.1\bin\Debug\Ćwiczenie 4.1.pdb
+C:\Users\local\Downloads\Ćwiczenie 4.1\Ćwiczenie 4.1\obj\Debug\Ćwiczenie 4.1.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\Ćwiczenie 4.1\Ćwiczenie 4.1\bin\Debug\Ćwiczenie 4.1.exe.config
+C:\Users\Adrian\Desktop\Ćwiczenie 4.1\Ćwiczenie 4.1\obj\Debug\Ćwiczenie 4.1.exe
+C:\Users\Adrian\Desktop\Ćwiczenie 4.1\Ćwiczenie 4.1\obj\Debug\Ćwiczenie 4.1.pdb
