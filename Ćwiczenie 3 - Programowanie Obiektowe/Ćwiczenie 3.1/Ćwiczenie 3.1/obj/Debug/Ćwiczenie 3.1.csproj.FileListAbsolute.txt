@@ -15,3 +15,6 @@ C:\Users\Adrian\Desktop\Ćwiczenie 3.1\Ćwiczenie 3.1\bin\Debug\nunit.framework.
 C:\Users\Adrian\Desktop\Ćwiczenie 3.1\Ćwiczenie 3.1\bin\Debug\nunit.framework.xml
 C:\Users\Adrian\Desktop\Ćwiczenie 3.1\Ćwiczenie 3.1\bin\Debug\Ćwiczenie 3.1.exe.CodeAnalysisLog.xml
 C:\Users\Adrian\Desktop\Ćwiczenie 3.1\Ćwiczenie 3.1\bin\Debug\Ćwiczenie 3.1.exe.lastcodeanalysissucceeded
+C:\Users\Adrian\Documents\GitHub\Zawansowane-Programowanie-Obiektowe\Ćwiczenie 3 - Programowanie Obiektowe\Ćwiczenie 3.1\Ćwiczenie 3.1\bin\Debug\Ćwiczenie 3.1.exe.config
+C:\Users\Adrian\Documents\GitHub\Zawansowane-Programowanie-Obiektowe\Ćwiczenie 3 - Programowanie Obiektowe\Ćwiczenie 3.1\Ćwiczenie 3.1\obj\Debug\Ćwiczenie 3.1.exe
+C:\Users\Adrian\Documents\GitHub\Zawansowane-Programowanie-Obiektowe\Ćwiczenie 3 - Programowanie Obiektowe\Ćwiczenie 3.1\Ćwiczenie 3.1\obj\Debug\Ćwiczenie 3.1.pdb
